@@ -1,0 +1,20 @@
+{
+  "name": "scraping-web",
+  "version": "1.0.0",
+  "description": "Test de Scraping a google maps",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Hector Rodriguez",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.5",
+    "standard": "^17.1.2"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  },
+  "rules": {
+    "semi": "off"
+  }
+}
